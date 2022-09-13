@@ -5,7 +5,9 @@ Black Magic Mini Clone
 <img src="Resources\blackmagic_mini_back.jpg"  width=50% height=50%>
 
 
-Black Magic Mini is a reduced version of the Black Magic board in terms of number of components. It is an easy-to-use board used for debugging embedded microcontrollers. It supports several targets from manufacturers such as STMicroelectronics, Atmel, Nordic Semiconductor, NXP, Texas Instruments, Freescale, Silicon Labs, Xilinx or Raspberry Pi.
+Black Magic Mini is a reduced version of the Black Magic board in terms of number of components.
+
+It is an easy-to-use board used for debugging embedded microcontrollers. It supports several targets from manufacturers such as STMicroelectronics, Atmel, Nordic Semiconductor, NXP, Texas Instruments, Freescale, Silicon Labs, Xilinx or Raspberry Pi.
 
 GNU debugger
 -------------------
